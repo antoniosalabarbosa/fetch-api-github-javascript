@@ -2,7 +2,7 @@
 ### Em desenvolvimento // Work in progress // En desarollo
 
 ### Email: <antoniooficial2004@gmail.com>
-### Tutorial Github API Rest: <https://docs.github.com/es/rest> or <https://api.github.com/users/yourusername>
+### Tutorial Github API Rest: <https://docs.github.com/es/rest>
 
 # PT-BR (🇧🇷)
 ## ✔ Sobre
